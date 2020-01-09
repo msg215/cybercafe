@@ -1,8 +1,7 @@
 body {
-  text-align: center;
-  background-color: black;
-  background-image: src(./images/background.jpg)
-
+    text-align: center;
+    background-color: black;
+    background-image: url(".images/background.jpg");
 }
 
 div {
