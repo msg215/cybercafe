@@ -2,6 +2,8 @@ body {
     text-align: center;
     background-color: #474242;
     background-image: url("./images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 div {
