@@ -1,6 +1,8 @@
 body {
   text-align: center;
-  background-color: #f0e8c5;
+  background-color: black;
+  background-image: src(./images/background.jpg)
+
 }
 
 div {
