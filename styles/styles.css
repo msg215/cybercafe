@@ -3,7 +3,8 @@ body {
     background-color: #474242;
     background-image: url("./images/background.jpg");
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 div {
